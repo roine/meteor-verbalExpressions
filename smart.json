@@ -1,0 +1,8 @@
+{
+  "name": "verbalExpressions",
+  "description": "JavaScript Regular expressions made easy for meteor",
+  "homepage": "https://github.com/roine/verbalExpressions",
+  "author": "Jehna, roine",
+  "version": "0.1.0",
+  "git": "https://github.com/roine/VerbalExpressions.git"
+}
