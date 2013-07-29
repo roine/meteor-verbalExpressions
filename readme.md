@@ -1,3 +1,25 @@
+Meteor verbalExpressions v0.2.1
+===
+
+To install the package first you'll need to install [meteorite](https://github.com/oortcloud/meteorite):
+
+    # check whether meteorite is installed
+    $ mrt --version
+    # if not then
+    $ npm install -g meteorite
+
+Then download the package
+
+    $ mrt add verbalExpressions
+
+or add it to your smart.json file and run mrt
+
+> "verbalExpressions": {}
+
+    $ mrt
+
+
+
 VerbalExpressions v0.1
 =====================
 
