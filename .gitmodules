@@ -1,0 +1,3 @@
+[submodule "lib/verbalExpressions"]
+  path = lib/verbalExpressions
+  url = https://github.com/jehna/VerbalExpressions.git
