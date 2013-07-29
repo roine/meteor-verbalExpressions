@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api){
-  api.add_files('lib/verbalExpressions.js', ['client', 'server']);
+  api.add_files('lib/VerbalExpressions.js', ['client', 'server']);
 });
